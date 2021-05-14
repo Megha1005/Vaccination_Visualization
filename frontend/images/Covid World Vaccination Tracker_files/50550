@@ -1,0 +1,146 @@
+var bk_results = {
+ "campaigns": [
+  {
+    "campaign": 244992,
+    "timestamp": 1620890955,
+    "categories": [
+    {
+     "categoryID": 1046034,
+     "timestamp": 1620890853
+    }
+    ]
+  },
+  {
+    "campaign": 215962,
+    "advertiser_account_id": "18ce53wa1m5",
+    "audience_names": "MKTG_All_1PD_US_AD+2+or+3_1x30",
+    "score": "100",
+    "timestamp": 1620890955,
+    "categories": [
+    {
+     "categoryID": 408098,
+     "timestamp": 1620890955
+    },
+    {
+     "categoryID": 1021881,
+     "timestamp": 1620890853
+    }
+    ]
+  },
+  {
+    "campaign": 244993,
+    "timestamp": 1620890955,
+    "categories": [
+    {
+     "categoryID": 1046034,
+     "timestamp": 1620890853
+    }
+    ]
+  },
+  {
+    "campaign": 221243,
+    "timestamp": 1620890955,
+    "categories": [
+    {
+     "categoryID": 997862,
+     "timestamp": 1620890853
+    }
+    ]
+  },
+  {
+    "campaign": 244990,
+    "timestamp": 1620890955,
+    "categories": [
+    {
+     "categoryID": 1046034,
+     "timestamp": 1620890853
+    }
+    ]
+  },
+  {
+    "campaign": 209855,
+    "timestamp": 1620890955,
+    "categories": [
+    {
+     "categoryID": 408098,
+     "timestamp": 1620890955
+    },
+    {
+     "categoryID": 997862,
+     "timestamp": 1620890853
+    }
+    ]
+  },
+  {
+    "campaign": 244991,
+    "timestamp": 1620890955,
+    "categories": [
+    {
+     "categoryID": 1046034,
+     "timestamp": 1620890853
+    }
+    ]
+  },
+  {
+    "campaign": 219195,
+    "timestamp": 1620890955,
+    "categories": [
+    {
+     "categoryID": 408098,
+     "timestamp": 1620890955
+    },
+    {
+     "categoryID": 1021881,
+     "timestamp": 1620890853
+    }
+    ]
+  },
+  {
+    "campaign": 239945,
+    "timestamp": 1620890955,
+    "categories": [
+    {
+     "categoryID": 1046034,
+     "timestamp": 1620890853
+    }
+    ]
+  },
+  {
+    "campaign": 221329,
+    "timestamp": 1620890955,
+    "categories": [
+    {
+     "categoryID": 1024818,
+     "timestamp": 1620890853
+    }
+    ]
+  },
+  {
+    "campaign": 215961,
+    "advertiser_account_id": "18ce53vsdwh",
+    "audience_names": "MKTG_All_1PD_US_AD+2+or+3_1x30",
+    "score": "100",
+    "timestamp": 1620890955,
+    "categories": [
+    {
+     "categoryID": 408098,
+     "timestamp": 1620890955
+    },
+    {
+     "categoryID": 1021881,
+     "timestamp": 1620890853
+    }
+    ]
+  },
+  {
+    "campaign": 239948,
+    "timestamp": 1620890955,
+    "categories": [
+    {
+     "categoryID": 1046034,
+     "timestamp": 1620890853
+    }
+    ]
+  }
+ ]
+};
